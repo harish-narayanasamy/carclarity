@@ -71,3 +71,6 @@ Around 4 hrs
 
 ## Improvements
 Using Message brokers for synchronizing different datastores. 
+
+## LOOM video
+https://www.loom.com/share/7617482a326b4ebb9f8cd7c434a579fd
